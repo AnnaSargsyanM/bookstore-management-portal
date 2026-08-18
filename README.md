@@ -71,3 +71,9 @@ bookstore-management-portal/
 │   └── order-item-form.jpg
 ├── sql/
 └── README.md
+```
+
+## Author
+
+Anna Sargsyan  
+B.S. Computer Science, Webster University
